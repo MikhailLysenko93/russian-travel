@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Ссылка на проект] https://mikhaillysenko93.github.io/russian-travel/
+Ссылка на проект: https://mikhaillysenko93.github.io/russian-travel/
 
 ---
 
