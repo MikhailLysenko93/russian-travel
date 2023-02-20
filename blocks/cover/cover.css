@@ -4,18 +4,18 @@
  
  @media screen and (max-width: 1279px) {
    .content__cover {
-     margin: 0 auto 92px auto;
+     margin-bottom: 92px;
    }
  }
  
  @media screen and (max-width: 1023px) {
    .content__cover {
-     margin: 0 auto 88px auto;
+    margin-bottom: 88px;
    }
  }
 
  @media screen and (max-width: 767px) {
    .content__cover {
-     margin: 0 auto 64px auto;
+    margin-bottom: 64px;
    }
  }
